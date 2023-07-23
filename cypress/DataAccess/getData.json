@@ -1,0 +1,38 @@
+{
+    "Login":
+    {
+        "LoginEmail": "TestQA_0966@yopmail.com",
+        "LoginPassword":"Test@123"
+    },
+    "ProfileData":
+    {
+        "caseNumber": "TestDemo",
+        "Clinical_Note":"Testing Data for Clinical Notes just to validate the  Notes"
+        
+    },
+     "RegistrationforUser1": 
+     {
+        "RegEmail": "Pragnya",
+        "RegPassword":"Test@123",
+        "FullName": "Pragnya Profile Test one"
+    },
+    "RegistrationforUser2": 
+    {
+       "RegEmail": "Anusha",
+       "RegPassword":"Test@123",
+       "FullName": "Anusha Profile Test two"
+   },
+   "RegistrationforUser3": 
+   {
+      "RegEmail": "janu",
+      "RegPassword":"Test@123",
+      "FullName": "Jahnavi Profile Test three"
+  },
+  "Language": 
+  {
+     "Japanese": "アヌシャ@テスト.com",
+     "English":"janu@gmail.com",
+     "Hindi" : "अनुषा@gmail.com",
+     "FullName": "Pragnya"
+ }
+}
